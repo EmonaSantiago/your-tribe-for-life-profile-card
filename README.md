@@ -2,7 +2,7 @@
 
 # 💁🏻‍♀️Profile card (your tribe for life)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-
+Een vernieuwde visitekaartje! 
 ## Inhoudsopgave
 
   * [Beschrijving](#beschrijving)
