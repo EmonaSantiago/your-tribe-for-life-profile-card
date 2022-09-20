@@ -1,0 +1,20 @@
+* {
+    font-family:cursive;
+    box-sizing: content-box;
+}
+
+body {
+    color: black;
+    background-color: aquamarine;
+    background-image: url('https://images2.alphacoders.com/261/thumb-1920-26102.jpg');
+}
+
+/* ----------- main ----------- */
+.visite-book {
+    margin-top: 8em;
+    text-align: center;
+    color: white;
+    /* background-image: url('../images/paper.png');
+    background-size: 100em 100%em;
+    background-position: center; */
+}
