@@ -11,14 +11,15 @@
         <div class="flip-card-inner">
             <div class="flip-card-front">
                 <h2>Emona Santiago</h2>
-                <img class="profile-picture" src="{imgUrl}" alt="afbeelding van emona">
+                <img class="profile-picture" src="./images/profiel.jpg" alt="afbeelding van emona">
+                <p>Flip to know me!</p>
             </div>
             <div class="flip-card-back">
               <h1>Emona Santiago</h1> 
-              <p>Github Link</p> 
+              <a href="https://github.com/EmonaSantiago/your-tribe-for-life-profile-card">Github link!</a> 
               <p>Bio</p>
               <p>2de jaars FDND</p>
-              <p>Mijn naam is Emona en ik ben 18 jaar oud. Ik ben Filipijnse afkomst en woon in Amsterdam.</p>
+              <p></p>
               <p></p>
             </div>
           </div>

@@ -6,6 +6,9 @@ body {
     align-content: center;
   }
   
+.profile-picture {
+  width: 15em;
+}
 
   .flip-card {
     display: block;
@@ -40,7 +43,7 @@ body {
   }
   
   .flip-card-front {
-    background-color: white;
+    background-color: #f7bdf8;
     color: black;
     border-style: solid;
     border-color: rgb(244, 244, 156);
@@ -49,7 +52,7 @@ body {
   }
   
   .flip-card-back {
-    background-color: white;
+    background-color: #f7bdf8;
     color: black;
     transform: rotateY(180deg);
     border-style: solid;
