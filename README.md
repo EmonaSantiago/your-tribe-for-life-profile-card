@@ -2,6 +2,9 @@
 
 # 💁🏻‍♀️Profile card (your tribe for life)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+ 
+ ![Uploading Schermafbeelding 2022-09-26 om 10.07.46.png…]()
+
 Een vernieuwde visitekaartje! 
 ## Inhoudsopgave
 
