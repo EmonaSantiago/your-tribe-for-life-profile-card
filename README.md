@@ -2,27 +2,29 @@
 
 # 💁🏻‍♀️Profile card (your tribe for life)
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
-Een vernieuwde visitekaartje!
+Een vernieuwde visitekaartje! (met Svelte en prismic)
 
 <img width="1440" alt="Schermafbeelding 2022-09-26 om 10 07 46" src="https://user-images.githubusercontent.com/90447045/192227214-cc0c0015-7a66-40b9-b9fc-5bd3e1586723.png">
  
-## Inhoudsopgave
-
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
-
 ## Beschrijving
 <!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
 <!-- Voeg een mooie poster visual toe 📸 -->
 <!-- Voeg een link toe naar Github Pages 🌐-->
-
+Het idee van het visitekaartje: 
+- Bloemen : Ik hou van bloemen.
+- Muziek noten : Ik ben muzikaal. Ik speel de gitaar, piano en ukelele. 
+- Kleurtjes : Ik ben erg creatief bezig.
+- Zon : Ik ben in de zomer jarig. 
+FLip het kaartje voor meer info! 
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
+🟢 HTML
+🟣 CSS
+🔵 Javascript
+🟡 Prismic
+🔴 Sveltekit
+Dit via Visual studio code. 
 
 ## Installatie
 * Sveltekit
